@@ -1,2 +1,2 @@
-# mamitton
-ensemble de recettes de cuisine 
+# Mamiton
+Les recettes de Mamie
