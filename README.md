@@ -8,7 +8,7 @@ ensemble de recettes de cuisine
 </head>
 <body>
   <header>
-    <img src="logo.png" alt="Logo">
+    <img src="logoo.jpg" alt="Logo">
     <h1>Recettes de cuisine</h1>
     <nav>
       <ul>
