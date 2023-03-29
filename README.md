@@ -1,7 +1,6 @@
 # mamiton
 ensemble de recettes de cuisine          
         
- <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
@@ -25,7 +24,6 @@ ensemble de recettes de cuisine
       <ul>
         <li>
           <h3>Salade de tomates et mozzarella</h3>
-          <img src="salade.jpg" alt="Salade de tomates et mozzarella">
           <p>Voici la recette de la délicieuse salade de tomates et mozzarella.</p>
           <ul>
             <li>6 tomates</li>
@@ -37,7 +35,6 @@ ensemble de recettes de cuisine
         </li>
         <li>
           <h3>Tartelette aux poireaux et au chèvre</h3>
-          <img src="tartelette.jpg" alt="Tartelette aux poireaux et au chèvre">
           <p>Voici la recette de la tartelette aux poireaux et au chèvre.</p>
           <ul>
             <li>1 pâte feuilletée</li>
@@ -49,7 +46,6 @@ ensemble de recettes de cuisine
         </li>
         <li> 
           <h3>Poulet rôti aux herbes</h3>
-          <img src="poulet.jpg" alt="Poulet rôti aux herbes">
           <p>Voici la recette du poulet rôti aux herbes.</p>
           <ul>
             <li>1 poulet entier</li>
@@ -62,7 +58,6 @@ ensemble de recettes de cuisine
         </li>
         <li>
           <h3>Ratatouille</h3>
-          <img src="ratatouille.jpg" alt="Ratatouille">
           <p>Voici la recette de la ratatouille.</p>
           <ul>
             <li>1 aubergine</li>
