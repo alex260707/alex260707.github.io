@@ -11,15 +11,11 @@ ensemble de recettes de cuisine
     <h1>Recettes de cuisine</h1>
     <nav>
       <ul>
-        <li><a href="#entrees">Entrées</a></li>
-        <li><a href="#plats">Plats</a></li>
-        <li><a href="#desserts">Desserts</a></li>
       </ul>
     </nav>
   </header>
 
   <main>
-    <section id="entrees">
       <h2>Entrées</h2>
       <ul>
         <li>
@@ -43,6 +39,8 @@ ensemble de recettes de cuisine
             <li>3 œufs</li>
             <li>1/2 tasse de crème fraîche</li>
           </ul>
+    <main>
+        <h2>Plats</h2>
         </li>
         <li> 
           <h3>Poulet rôti aux herbes</h3>
