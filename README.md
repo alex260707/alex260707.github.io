@@ -32,6 +32,7 @@ ensemble de recettes de cuisine
         </li>
         <li>
           <h3>Tartelette aux poireaux et au chèvre</h3>
+           <img src="tartelette.jpg">
           <p>Voici la recette de la tartelette aux poireaux et au chèvre.</p>
           <ul>
             <li>1 pâte feuilletée</li>
