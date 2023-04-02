@@ -42,7 +42,6 @@ les recettes de mamie
           </ul>
     <main>
         <h2>Plats</h2>
-        </li>
         <li> 
           <h3>Poulet rôti aux herbes</h3>
           <p>Voici la recette du poulet rôti aux herbes.</p>
