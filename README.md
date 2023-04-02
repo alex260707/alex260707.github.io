@@ -20,6 +20,7 @@ ensemble de recettes de cuisine
       <ul>
         <li>
           <h3>Salade de tomates et mozzarella</h3>
+          <img src="salade.jpg">
           <p>Voici la recette de la délicieuse salade de tomates et mozzarella.</p>
           <ul>
             <li>6 tomates</li>
