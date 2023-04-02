@@ -1,7 +1,6 @@
 # mamiton
-ensemble de recettes de cuisine          
+les recettes de mamie          
         
-<html lang="fr">
 <head>
   <meta charset="UTF-8">
 </head>
@@ -67,4 +66,6 @@ ensemble de recettes de cuisine
         </li>
       </ul>
     </section>
+    
+    
 
