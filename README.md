@@ -7,10 +7,6 @@ les recettes de mamie
   <header>
     <img src="logoo.jpg">
     <h1>Recettes de cuisine</h1>
-    <nav>
-      <ul>
-      </ul>
-    </nav>
   </header>
 
   <main>
@@ -64,8 +60,7 @@ les recettes de mamie
             <li>1 poivron rouge</li>
           </ul>
         </li>
-      </ul>
-    </section>
+  
     
     
 
