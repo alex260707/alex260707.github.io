@@ -57,6 +57,7 @@ les recettes de mamie
         </li>
         <li>
           <h3>Ratatouille</h3>
+                <img src="ratatouille.jpg">
           <p>Voici la recette de la ratatouille.</p>
           <ul>
             <li>1 aubergine</li>
