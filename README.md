@@ -6,7 +6,7 @@
     <h1>Recettes de cuisine de Mamie</h1>
     <nav>
       <ul>
-        <li><a href="entrees.html">Entrées</a></li>
+        <li><a href="entrees.github.io>Entrées</a></li>
         <li><a href="plats.html">Plats</a></li>
       </ul>
     </nav>
