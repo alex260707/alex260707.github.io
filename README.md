@@ -1,7 +1,5 @@
   <header>
     <h1>Recettes d'entrées de Mamie</h1>
-    <nav>
-      <ul>
         <li><a href="index.html">Accueil</a></li>
         <li><a href="plats.html">Plats</a></li>
       </ul>
