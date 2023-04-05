@@ -44,6 +44,7 @@ les recettes de mamie
         <h2>Plats</h2>
         <li> 
           <h3>Poulet rôti aux herbes</h3>
+          <img src="poulet.jpg">
           <p>Voici la recette du poulet rôti aux herbes.</p>
           <ul>
             <li>1 poulet entier</li>
