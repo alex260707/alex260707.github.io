@@ -5,7 +5,7 @@
     <h1>Recettes de cuisine de Mamie</h1>
     <nav>
       <ul>
-        <li><a href="entrees.odt">Entrées</a></li>
+        <li><a href="lesentrees.png">Entrées</a></li>
         <li><a href="plats.html">Plats</a></li>
       </ul>
     </nav>
