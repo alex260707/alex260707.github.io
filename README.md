@@ -28,6 +28,8 @@ Ingrédients : tomates, oignons, basilic, huile d'olive, vinaigre balsamique, se
   
   Tarte aux poireaux
 
+  <img src="tarte.jpeg">
+  
 Ingrédients : pâte brisée, poireaux, crème fraîche, œufs, gruyère râpé, sel, poivre.
 Préparation : Préchauffez le four à 180°C. Faites revenir les poireaux émincés dans une poêle avec un peu d'huile d'olive jusqu'à ce qu'ils soient tendres. Étalez la pâte brisée dans un moule à tarte, ajoutez les poireaux cuits. Dans un bol, mélangez la crème fraîche, les œufs battus, le gruyère râpé, le sel et le poivre. Versez ce mélange sur les poireaux. Enfournez pendant environ 30 minutes, jusqu'à ce que la tarte soit dorée.</p>
     
